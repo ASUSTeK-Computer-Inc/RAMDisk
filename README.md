@@ -1,2 +1,2 @@
 # RAMDisk
-RAMDisk beta program. Unleash the power!
+RAMDisk for Windows 8 & 8.1. Unleash the power!
